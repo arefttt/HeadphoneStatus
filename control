@@ -1,0 +1,9 @@
+Package: com.arefttt.headphonestatus
+Name: HeadphoneStatus
+Depends: mobilesubstrate, libstatusbar
+Version: beta1
+Architecture: iphoneos-arm
+Description: When Headphone is connectes, show status bar icon
+Maintainer: arefttt <arefttt@gmail.com>
+Author: arefttt <arefttt@gmail.com>
+Section: Tweaks
